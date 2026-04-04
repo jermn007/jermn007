@@ -36,7 +36,8 @@ My repos reflect real problems I've encountered: automating systematic literatur
 - **Sr. Instructional Technology Architect**, Charter Communications (2022–2025)
 - **Sr. Instructional Designer**, Charter Communications (2018–2022)
 - **M.A. Instructional Systems Design**, University of Central Florida
-- **ATD Instructional Design Certificate** · **eCornell UX Design Certificate**
+- **ATD Instructional Design Certificate**
+- **eCornell VR UX Design Certificate**
 
 ---
 
