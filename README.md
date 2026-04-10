@@ -2,7 +2,7 @@
 
 ### Lead L&D Technology Architect · Instructional Systems Designer · AI Learning Systems
 
-I design and architect the learning technology ecosystems that organizations rely on to develop their people at scale. Over 20 years in L&D - the last 10 building enterprise-scale instructional technology infrastructure. The platforms I architect and administer support content creation and delivery to ~100,000 employees across ~130 instructional designers.
+I design and architect the learning technology ecosystems that organizations rely on to develop their people at scale. Over 10 years in L&D - the last 10 building enterprise-scale instructional technology infrastructure. The platforms I architect and administer support content creation and delivery to ~100,000 employees across ~130 instructional designers.
 
 My current focus is at the intersection of **instructional systems design** and **generative AI** - building AI-powered learning tools grounded in evidence, measurable outcomes, and the kind of architecture that actually holds up at scale.
 
