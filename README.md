@@ -31,7 +31,7 @@ My repos reflect real problems I've encountered: automating systematic literatur
 | [GUIDE](https://github.com/jermn007/GUIDE) | LLM-as-a-judge evaluation framework: 9 archetypes, 54 research-grounded dimensions for scoring AI assistants and instructional artifacts. Apache 2.0. |
 | [ai-mvp---Evidence-Assistant](https://github.com/jermn007/ai-mvp---Evidence-Assistant) | RAG-powered academic research assistant automating PRESS methodology and LICO framework workflows for systematic literature review |
 | [HomeAssistant-SaaS-Status-Monitor](https://github.com/jermn007/HomeAssistant-SaaS-Status-Monitor) | Polls SaaS platform status APIs and surfaces degradation as Home Assistant sensors - originally built to monitor my own L&D tech stack |
-| [rs2ir-converter](https://github.com/jermn007/rs2ir-converter) | Batch converter for Rocksmith 2014 custom DLC to IMMERROCK format for Meta Quest - a personal project born from a love of rhythm games, guitar, and VR. Not everything has to be work after all 😀. |
+| [rs2ir-converter](https://github.com/jermn007/rs2ir-converter) | Batch converter for Rocksmith 2014 custom DLC to IMMERROCK format for Meta Quest - a personal project born from a love of rhythm games, guitar, and VR. Not everything has to be work after all 🎸. |
 
 ---
 
