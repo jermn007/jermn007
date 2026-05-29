@@ -11,7 +11,7 @@ My current focus is at the intersection of **instructional systems design** and 
 ## What I build
 
 **Evaluation frameworks for AI-generated instruction**
-[GUIDE](https://github.com/jermn007/GUIDE) (Grounded Universal Instructional Design Evaluator) is a modular LLM-as-a-judge framework that translates peer-reviewed learning science into automated evaluation rubrics. 9 archetypes, 54 dimensions, every scoring criterion anchored to named research - Knowles, Mayer, Sweller, Gagne, Bloom, Vygotsky, and others. Built as a capstone synthesis of my UCF MA in Instructional Systems.
+[GUIDE](https://github.com/jermn007/GUIDE) (Grounded Universal Instructional Design Evaluator) is a modular LLM-as-a-judge framework that translates peer-reviewed learning science into automated evaluation rubrics. 10 archetypes, 60 dimensions, every scoring criterion anchored to named research - Knowles, Mayer, Sweller, Gagne, Bloom, Vygotsky, and others. Built as a capstone synthesis of my UCF MA in Instructional Systems.
 
 **AI-powered learning tools**
 RAG-enabled assistants trained on curriculum materials, grounded in retrieval-augmented generation to reduce hallucinations and support evidence-informed design. I co-authored research on this at the 2025 AECT Annual Convention and delivered a live build-along webinar for AECT's Education in Health Professions SIG (March 2026).
