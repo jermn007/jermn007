@@ -48,7 +48,7 @@ My repos reflect real problems I've encountered: automating systematic literatur
 
 ## Expertise
 
-`Instructional Systems Design` `Learning Technology Architecture` `xAPI / Learning Analytics` `RAG / Generative AI` `LLM-as-a-Judge Evaluation` `ADDIE` `Digital Adoption Platforms` `LCMS Administration` `Blended Learning` `Python` `Articulate Storyline` `WalkMe` `LLM Deployment`
+`Instructional Systems Design` `Learning Technology Architecture` `xAPI / Learning Analytics` `RAG / Generative AI` `LLM-as-a-Judge Evaluation` `ADDIE` `Single Source Authoring` `Digital Adoption Platforms` `LCMS Administration` `Blended Learning` `Python` `Articulate Storyline` `WalkMe` `LLM Deployment`
 
 ---
 
