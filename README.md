@@ -54,4 +54,4 @@ My repos reflect real problems I've encountered: automating systematic literatur
 
 ## Links
 
-[Portfolio](https://www.jeremyterhune.com) · [AI Assistants](https://www.jeremyterhune.com/ai-assistant) · [LinkedIn](https://www.linkedin.com/in/jeremylterhune/)
+[Portfolio](https://www.jeremyterhune.com) · [AI Assistants](https://www.jeremyterhune.com/ai-assistant) · [LinkedIn](https://www.linkedin.com/in/jeremylterhune/) · [Lastly (daily word game)](https://lastly.terhunelabs.com) · [Fretboard Trainer](https://fretboard.terhunelabs.com)
